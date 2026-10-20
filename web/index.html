@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Odyssey layout</title><link rel="stylesheet" href="/style.css"><script src="/app.js" defer></script></head>
+<body><svg class="geometry" aria-hidden="true" width="0" height="0"><defs><clipPath id="screen-curve" clipPathUnits="objectBoundingBox"><path d="M .012 .005 Q .5 .235 .988 .005 Q 1 0 1 .018 L 1 .982 Q 1 1 .988 .995 Q .5 .765 .012 .995 Q 0 1 0 .982 L 0 .018 Q 0 0 .012 .005 Z"/></clipPath></defs></svg><main>
+<section id="login"><form id="login-form"><label for="token">API token</label><div class="login-row"><input id="token" type="password" autocomplete="off" required><button>Connect</button></div><p id="login-error" role="alert"></p></form></section>
+<section id="dashboard" hidden aria-label="Monitor layout">
+<div id="canvas" class="canvas" aria-label="Draft monitor layout"></div>
+<div id="profiles" class="profiles" role="group" aria-label="Monitor modes"></div>
+<div id="sources" class="sources" role="group" aria-label="Inputs"></div>
+<div class="actions"><button id="apply" hidden>Confirm</button></div>
+<p id="error" role="alert"></p><p id="assignment-message" class="sr-only" role="status"></p>
+</section></main></body></html>

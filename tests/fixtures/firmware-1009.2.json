@@ -1,0 +1,210 @@
+[
+  {
+    "profile": "50-50",
+    "registers": {
+      "60": {
+        "code": "60",
+        "current": 15,
+        "current_hex": "0x000f",
+        "maximum": null,
+        "type": "SNC"
+      },
+      "E2": {
+        "code": "E2",
+        "current": 14801,
+        "current_hex": "0x39d1",
+        "maximum": 127,
+        "type": "CNC"
+      },
+      "E3": {
+        "code": "E3",
+        "current": 4096,
+        "current_hex": "0x1000",
+        "maximum": 20817,
+        "type": "CNC"
+      }
+    }
+  },
+  {
+    "profile": "75-25",
+    "registers": {
+      "60": {
+        "code": "60",
+        "current": 15,
+        "current_hex": "0x000f",
+        "maximum": null,
+        "type": "SNC"
+      },
+      "E2": {
+        "code": "E2",
+        "current": 14803,
+        "current_hex": "0x39d3",
+        "maximum": 127,
+        "type": "CNC"
+      },
+      "E3": {
+        "code": "E3",
+        "current": 4096,
+        "current_hex": "0x1000",
+        "maximum": 20817,
+        "type": "CNC"
+      }
+    }
+  },
+  {
+    "profile": "25-75",
+    "registers": {
+      "60": {
+        "code": "60",
+        "current": 15,
+        "current_hex": "0x000f",
+        "maximum": null,
+        "type": "SNC"
+      },
+      "E2": {
+        "code": "E2",
+        "current": 14805,
+        "current_hex": "0x39d5",
+        "maximum": 127,
+        "type": "CNC"
+      },
+      "E3": {
+        "code": "E3",
+        "current": 4096,
+        "current_hex": "0x1000",
+        "maximum": 20817,
+        "type": "CNC"
+      }
+    }
+  },
+  {
+    "profile": "33-33-33",
+    "registers": {
+      "60": {
+        "code": "60",
+        "current": 15,
+        "current_hex": "0x000f",
+        "maximum": null,
+        "type": "SNC"
+      },
+      "E2": {
+        "code": "E2",
+        "current": 14807,
+        "current_hex": "0x39d7",
+        "maximum": 127,
+        "type": "CNC"
+      },
+      "E3": {
+        "code": "E3",
+        "current": 49153,
+        "current_hex": "0xc001",
+        "maximum": 20817,
+        "type": "CNC"
+      }
+    }
+  },
+  {
+    "profile": "50-25-25",
+    "registers": {
+      "60": {
+        "code": "60",
+        "current": 15,
+        "current_hex": "0x000f",
+        "maximum": null,
+        "type": "SNC"
+      },
+      "E2": {
+        "code": "E2",
+        "current": 14809,
+        "current_hex": "0x39d9",
+        "maximum": 127,
+        "type": "CNC"
+      },
+      "E3": {
+        "code": "E3",
+        "current": 49153,
+        "current_hex": "0xc001",
+        "maximum": 20817,
+        "type": "CNC"
+      }
+    }
+  },
+  {
+    "profile": "25-50-25",
+    "registers": {
+      "60": {
+        "code": "60",
+        "current": 15,
+        "current_hex": "0x000f",
+        "maximum": null,
+        "type": "SNC"
+      },
+      "E2": {
+        "code": "E2",
+        "current": 14811,
+        "current_hex": "0x39db",
+        "maximum": 127,
+        "type": "CNC"
+      },
+      "E3": {
+        "code": "E3",
+        "current": 49153,
+        "current_hex": "0xc001",
+        "maximum": 20817,
+        "type": "CNC"
+      }
+    }
+  },
+  {
+    "profile": "25-25-50",
+    "registers": {
+      "60": {
+        "code": "60",
+        "current": 15,
+        "current_hex": "0x000f",
+        "maximum": null,
+        "type": "SNC"
+      },
+      "E2": {
+        "code": "E2",
+        "current": 14813,
+        "current_hex": "0x39dd",
+        "maximum": 127,
+        "type": "CNC"
+      },
+      "E3": {
+        "code": "E3",
+        "current": 49153,
+        "current_hex": "0xc001",
+        "maximum": 20817,
+        "type": "CNC"
+      }
+    }
+  },
+  {
+    "profile": "pip",
+    "registers": {
+      "60": {
+        "code": "60",
+        "current": 15,
+        "current_hex": "0x000f",
+        "maximum": null,
+        "type": "SNC"
+      },
+      "E2": {
+        "code": "E2",
+        "current": 14815,
+        "current_hex": "0x39df",
+        "maximum": 127,
+        "type": "CNC"
+      },
+      "E3": {
+        "code": "E3",
+        "current": 4096,
+        "current_hex": "0x1000",
+        "maximum": 20817,
+        "type": "CNC"
+      }
+    }
+  }
+]
